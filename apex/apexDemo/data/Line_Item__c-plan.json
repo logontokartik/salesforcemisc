@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "Line_Item__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "Line_Item__cs.json"
+        ]
+    }
+]

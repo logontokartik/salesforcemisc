@@ -1,0 +1,200 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Line_Item__c",
+                "referenceId": "Line_Item__cRef1"
+            },
+            "Name": "i",
+            "Invoice__r": {
+                "attributes": {
+                    "type": "Invoice__c",
+                    "url": "/services/data/v41.0/sobjects/Invoice__c/a0056000001W6jiAAC"
+                },
+                "Name": "INV-0000",
+                "Status__c": "Closed",
+                "Invoice_Total__c": 0
+            },
+            "Merchandise__r": {
+                "attributes": {
+                    "type": "Merchandise__c",
+                    "url": "/services/data/v41.0/sobjects/Merchandise__c/a0256000000fbDXAAY"
+                },
+                "Name": "Laptop",
+                "Price__c": 500,
+                "Quantity__c": 1000,
+                "Status__c": null
+            },
+            "Line_Item_Total__c": 0,
+            "Quantity__c": 1
+        },
+        {
+            "attributes": {
+                "type": "Line_Item__c",
+                "referenceId": "Line_Item__cRef2"
+            },
+            "Name": "i",
+            "Invoice__r": {
+                "attributes": {
+                    "type": "Invoice__c",
+                    "url": "/services/data/v41.0/sobjects/Invoice__c/a0056000001W6jjAAC"
+                },
+                "Name": "INV-0001",
+                "Status__c": "Closed",
+                "Invoice_Total__c": 0
+            },
+            "Merchandise__r": {
+                "attributes": {
+                    "type": "Merchandise__c",
+                    "url": "/services/data/v41.0/sobjects/Merchandise__c/a0256000000fbDYAAY"
+                },
+                "Name": "Desktop",
+                "Price__c": 1000,
+                "Quantity__c": 500,
+                "Status__c": null
+            },
+            "Line_Item_Total__c": 0,
+            "Quantity__c": 1
+        },
+        {
+            "attributes": {
+                "type": "Line_Item__c",
+                "referenceId": "Line_Item__cRef3"
+            },
+            "Name": "i",
+            "Invoice__r": {
+                "attributes": {
+                    "type": "Invoice__c",
+                    "url": "/services/data/v41.0/sobjects/Invoice__c/a0056000001W6jkAAC"
+                },
+                "Name": "INV-0002",
+                "Status__c": "Closed",
+                "Invoice_Total__c": 0
+            },
+            "Merchandise__r": {
+                "attributes": {
+                    "type": "Merchandise__c",
+                    "url": "/services/data/v41.0/sobjects/Merchandise__c/a0256000000fbDZAAY"
+                },
+                "Name": "Tablet",
+                "Price__c": 300,
+                "Quantity__c": 5000,
+                "Status__c": null
+            },
+            "Line_Item_Total__c": 0,
+            "Quantity__c": 1
+        },
+        {
+            "attributes": {
+                "type": "Line_Item__c",
+                "referenceId": "Line_Item__cRef4"
+            },
+            "Name": "i",
+            "Invoice__r": {
+                "attributes": {
+                    "type": "Invoice__c",
+                    "url": "/services/data/v41.0/sobjects/Invoice__c/a0056000001W6jlAAC"
+                },
+                "Name": "INV-0003",
+                "Status__c": "Open",
+                "Invoice_Total__c": 0
+            },
+            "Merchandise__r": {
+                "attributes": {
+                    "type": "Merchandise__c",
+                    "url": "/services/data/v41.0/sobjects/Merchandise__c/a0256000000fbDaAAI"
+                },
+                "Name": "Rack Server",
+                "Price__c": 3245.99,
+                "Quantity__c": 500,
+                "Status__c": null
+            },
+            "Line_Item_Total__c": 0,
+            "Quantity__c": 1
+        },
+        {
+            "attributes": {
+                "type": "Line_Item__c",
+                "referenceId": "Line_Item__cRef5"
+            },
+            "Name": "i",
+            "Invoice__r": {
+                "attributes": {
+                    "type": "Invoice__c",
+                    "url": "/services/data/v41.0/sobjects/Invoice__c/a0056000001W6jmAAC"
+                },
+                "Name": "INV-0004",
+                "Status__c": "Open",
+                "Invoice_Total__c": 0
+            },
+            "Merchandise__r": {
+                "attributes": {
+                    "type": "Merchandise__c",
+                    "url": "/services/data/v41.0/sobjects/Merchandise__c/a0256000000fbDbAAI"
+                },
+                "Name": "Old Laptop",
+                "Price__c": 345.99,
+                "Quantity__c": 50,
+                "Status__c": null
+            },
+            "Line_Item_Total__c": 0,
+            "Quantity__c": 1
+        },
+        {
+            "attributes": {
+                "type": "Line_Item__c",
+                "referenceId": "Line_Item__cRef6"
+            },
+            "Name": "i",
+            "Invoice__r": {
+                "attributes": {
+                    "type": "Invoice__c",
+                    "url": "/services/data/v41.0/sobjects/Invoice__c/a0056000001W6jnAAC"
+                },
+                "Name": "INV-0005",
+                "Status__c": "Open",
+                "Invoice_Total__c": 0
+            },
+            "Merchandise__r": {
+                "attributes": {
+                    "type": "Merchandise__c",
+                    "url": "/services/data/v41.0/sobjects/Merchandise__c/a0256000000fbDcAAI"
+                },
+                "Name": "Deluxe Desktop",
+                "Price__c": 1399.99,
+                "Quantity__c": 250,
+                "Status__c": null
+            },
+            "Line_Item_Total__c": 0,
+            "Quantity__c": 1
+        },
+        {
+            "attributes": {
+                "type": "Line_Item__c",
+                "referenceId": "Line_Item__cRef7"
+            },
+            "Name": "i",
+            "Invoice__r": {
+                "attributes": {
+                    "type": "Invoice__c",
+                    "url": "/services/data/v41.0/sobjects/Invoice__c/a0056000001W6joAAC"
+                },
+                "Name": "INV-0006",
+                "Status__c": "Open",
+                "Invoice_Total__c": 0
+            },
+            "Merchandise__r": {
+                "attributes": {
+                    "type": "Merchandise__c",
+                    "url": "/services/data/v41.0/sobjects/Merchandise__c/a0256000000fbDdAAI"
+                },
+                "Name": "Work Desktop",
+                "Price__c": 1145.99,
+                "Quantity__c": 750,
+                "Status__c": null
+            },
+            "Line_Item_Total__c": 0,
+            "Quantity__c": 1
+        }
+    ]
+}

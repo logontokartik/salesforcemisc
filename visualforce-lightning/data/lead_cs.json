@@ -1,0 +1,48 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "LeadRef1"
+      },
+      "FirstName": "Laura",
+      "LastName": "Croft",
+      "email": "lc@adventures.us",
+      "Company": "Dreamhouse",
+      "phone": "6462679237"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "LeadRef2"
+      },
+      "FirstName": "James",
+      "LastName": "Kirk",
+      "email": "JamesTKirk@Starfleet.mil",
+      "Company": "Starfleet",
+      "phone": "3928499283"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "LeadRef3"
+      },
+      "FirstName": "Luke",
+      "LastName": "Skywalker",
+      "email": "Luke@Tatooine.planet",
+      "Company": "Rebel Alliance",
+      "phone": "9987861357"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "LeadRef4"
+      },
+      "FirstName": "Malcolm",
+      "LastName": "Reynolds",
+      "email": "Mal@serenity.browncoats",
+      "Company": "Serenity",
+      "phone": "3217896543"
+    }
+  ]
+}
